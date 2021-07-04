@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+### Data
 
-You can use the [editor on GitHub](https://github.com/aadityadar/development_economics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- [Aditi Bhandari's list](https://github.com/AditiBhandari/south-asia-data-sources)
+- [BREAD's list](https://www.ibread.org/data-sets/)
+- [Data.gov.in](https://data.gov.in/)
+- [Development Data Lab](http://www.devdatalab.org/covid)
+- [EOPP Indian States Data](https://sticerd.lse.ac.uk/eopp/_new/data/default.asp)
+- [Gurman Bhatia's list](https://www.gurmanbhatia.com/idea/resources/2021/05/31/dataset-of-datasets-for-indian-journalists.html)
+- [India Data Portal](https://indiadataportal.com/)
+- [Ken Jackson](http://www.kjackson.net/links/data/)
+- [Markus Eberhardt's list](https://sites.google.com/site/medevecon/devecondata)
+- [Masayuki Kudamatsu's list](http://devecondata.blogspot.com/)
+- [Plamen Nikolov's list](https://users.nber.org/~nikolovp/studentresources/datasets.pdf)
+- [Sebastian Bauhoff's list](https://scholar.harvard.edu/bauhoff/datalinks.html)
+- [UC Berkeley's list](https://guides.lib.berkeley.edu/c.php?g=4395&p=481795)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Keeping up with research 
 
-### Markdown
+* [Ideas For India](https://www.ideasforindia.in/)
+* [VoxDev](https://voxdev.org/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Communities
 
-```markdown
-Syntax highlighted code block
+* [BREAD](https://www.ibread.org/)
+* [NBER Development Economics](https://www.nber.org/programs-projects/programs-working-groups/development-economics)
+* [ThRed - Theoretical Research in Development Economics](http://thred.devecon.org/)
 
-# Header 1
-## Header 2
-### Header 3
+### Conferences, workshops, seminars
+* [Delhi Political Economy Workshop Series](https://sites.google.com/view/delhipoliticaleconomyworkshop/home)
+* [International Conference on Indian Business & Economic History](https://conference.iima.ac.in/history/)
+* [Seminar in Applied Microeconomics - Virtual Assembly and Discussion](https://samvaad.info/)
+* [VDEV - Virtual Development Economics](https://vdevecon.wixsite.com/website)
 
-- Bulleted
-- List
+### Lecture notes/videos
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aadityadar/development_economics/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [Marginal Revolution University](https://mru.org/development-economics)
+* [ThReD](https://teaching.devecon.org/)
+* Debraj Ray's [notes](https://debrajray.com/teaching/) and [slides](https://debrajray.com/teaching-material/)
