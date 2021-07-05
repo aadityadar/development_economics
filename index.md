@@ -24,15 +24,27 @@
 * [BREAD](https://www.ibread.org/)
 * [NBER Development Economics](https://www.nber.org/programs-projects/programs-working-groups/development-economics)
 * [ThRed - Theoretical Research in Development Economics](http://thred.devecon.org/)
+* [STEG - Structural Transformation and Economic Growth ](https://steg.cepr.org/)
 
 ### Conferences, workshops, seminars
+
 * [Delhi Political Economy Workshop Series](https://sites.google.com/view/delhipoliticaleconomyworkshop/home)
 * [International Conference on Indian Business & Economic History](https://conference.iima.ac.in/history/)
 * [Seminar in Applied Microeconomics - Virtual Assembly and Discussion](https://samvaad.info/)
 * [VDEV - Virtual Development Economics](https://vdevecon.wixsite.com/website)
 
-### Lecture notes/videos
+### Courses/videos
 
+* [Macro Development](https://steg.cepr.org/courses/steg-virtual-course-key-concepts-macro-development)
 * [Marginal Revolution University](https://mru.org/development-economics)
-* [ThReD](https://teaching.devecon.org/)
-* Debraj Ray's [notes](https://debrajray.com/teaching/) and [slides](https://debrajray.com/teaching-material/)
+
+### Lecture notes
+
+* African Economic Research Consortium. [Lectures for CPP/JFE](http://publication.aercafricalibrary.org/handle/123456789/1674).
+* Clement Imbert. [State and development](https://sites.google.com/site/clemimbert/).
+* Debraj Ray. [Notes](https://debrajray.com/teaching/). [Slides](https://debrajray.com/teaching-material/).
+* Dilip Mookherjee. [Topics in Development Economics](http://people.bu.edu/dilipm/ec721/721hmpg.html)
+* Jonathan Conning. [Economics Development II](https://dev-ii-seminar.readthedocs.io/en/latest/index.html).
+* Martin Ravallion. [Economics of Poverty](https://economicsandpoverty.com/)
+* Owen Ozier. [Empirical mircoeconomics](http://economics.ozier.com/econ626/). [Randomized Controlled Trials](http://economics.ozier.com/bgse-2019/).
+* ThReD. [Topics in Development Economics](https://teaching.devecon.org/)
