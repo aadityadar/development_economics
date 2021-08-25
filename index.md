@@ -22,7 +22,7 @@
 
 ### Communities
 
-* [BREAD](https://www.ibread.org/).
+* [BREAD](https://www.ibread.org/)
 * [NBER Development Economics](https://www.nber.org/programs-projects/programs-working-groups/development-economics)
 * [ThRed - Theoretical Research in Development Economics](http://thred.devecon.org/)
 * [STEG - Structural Transformation and Economic Growth ](https://steg.cepr.org/)
