@@ -2,6 +2,7 @@
 
 - [Aditi Bhandari's list](https://github.com/AditiBhandari/south-asia-data-sources)
 - [BREAD's list](https://www.ibread.org/data-sets/)
+- [Data is plural](https://www.data-is-plural.com/)
 - [Data.gov.in](https://data.gov.in/)
 - [Development Data Lab](http://www.devdatalab.org/covid)
 - [EOPP Indian States Data](https://sticerd.lse.ac.uk/eopp/_new/data/default.asp)
