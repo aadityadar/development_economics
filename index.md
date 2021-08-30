@@ -11,6 +11,7 @@
 - [Ken Jackson](http://www.kjackson.net/links/data/)
 - [Markus Eberhardt's list](https://sites.google.com/site/medevecon/devecondata)
 - [Masayuki Kudamatsu's list](http://devecondata.blogspot.com/)
+- [Pietro Biroli's list](https://sites.google.com/site/pietrobiroli/teaching#h.p_4EHlPdatRUQr)
 - [Plamen Nikolov's list](https://users.nber.org/~nikolovp/studentresources/datasets.pdf)
 - [Sebastian Bauhoff's list](https://scholar.harvard.edu/bauhoff/datalinks.html)
 - [UC Berkeley's list](https://guides.lib.berkeley.edu/c.php?g=4395&p=481795)
