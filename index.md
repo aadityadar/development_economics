@@ -1,6 +1,7 @@
 ### Data
 
 - [Aditi Bhandari's list](https://github.com/AditiBhandari/south-asia-data-sources)
+- [AEA's list](https://www.aeaweb.org/resources/data/intl)
 - [BREAD's list](https://www.ibread.org/data-sets/)
 - [Data is plural](https://www.data-is-plural.com/)
 - [Data.gov.in](https://data.gov.in/)
