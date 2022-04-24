@@ -38,8 +38,11 @@
 
 ### Courses/videos
 
+* African History through the Lens of Economics. [Course materials](https://www.wheelerafricacourse.org/about-6). [YouTube playlist](https://youtube.com/playlist?list=PLyoTmPKQf7D4Zq13-oBP9i5XjND-3I2Kp)
+* BREAD-IGC Virtual PhD Course , Spring 2022. [Modules on Education; Credit, insurance, and risk; and Migration](https://www.theigc.org/event/bread-igc-virtual-phd-course-spring-2022/). [YouTube playlist](https://www.youtube.com/playlist?list=PLOeLh0sckp9QldlNjmk8kdr9JDtDG2c0M)
 * [Macro Development](https://steg.cepr.org/courses/steg-virtual-course-key-concepts-macro-development)
 * [Marginal Revolution University](https://mru.org/development-economics)
+
 
 ### Lecture notes
 
